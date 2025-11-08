@@ -1,7 +1,7 @@
 ## Project Banner
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/KW4xTXWVk_s/maxresdefault.jpg" alt="banner" width="100%">
+  <img src="https://i.ytimg.com/vi/KW4xTXWVk_s/maxresdefault.jpg" alt="banner" width="100%" height="26%" >
   <small>Image source: YouTube thumbnail (KW4xTXWVk_s)</small>
 </p>
 
